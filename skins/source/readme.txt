@@ -1,1 +1,1 @@
-Create 16bit 640x480 BMP in photoshop: Windows/16bpp/R5G6R5
+Create 16bit 640x480 BMP in photoshop: Windows/16bpp/R5G6R5/22041219PG
