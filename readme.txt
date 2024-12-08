@@ -28,7 +28,7 @@ These are the standard MAME key definitions as follows. All MAME keys are also a
   * Key Escape to quit
   * Key TAB to bring up the MAME menu
   * Function Keys: F11 show fps, F10 toggle throttle, F5 cheats, Shift F11 show profiler
-  * Key P to pause
+  * Key P to 
 
 NOTE: To type OK when MAME requires it with the joystick, press LEFT and then RIGHT.
 
